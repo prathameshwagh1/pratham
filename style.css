@@ -1,0 +1,50 @@
+
+body {
+	background-color: red;
+
+}
+img{
+	height: 20px;
+	width: 20px;
+}
+header {
+	background-color:white;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+}
+
+nav {
+	background-color: #cccccc;
+	padding: 10px;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 10px;
+}
+
+nav ul li a {
+	color: #333;
+	text-decoration: none;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+section h2 {
+	margin-top: 0;
+}
